@@ -1,0 +1,6 @@
+C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 8\Chapter 8\Domain\bin\Debug\Domain.dll
+C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 8\Chapter 8\Domain\bin\Debug\Domain.pdb
+C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 8\Chapter 8\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 8\Chapter 8\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 8\Chapter 8\Domain\obj\Debug\Domain.dll
+C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 8\Chapter 8\Domain\obj\Debug\Domain.pdb
