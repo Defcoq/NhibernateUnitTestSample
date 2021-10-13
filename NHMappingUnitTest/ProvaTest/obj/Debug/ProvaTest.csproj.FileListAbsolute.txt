@@ -1,0 +1,14 @@
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\ProvaTest.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\ProvaTest.pdb
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\obj\Debug\ProvaTest.csprojAssemblyReference.cache
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\obj\Debug\ProvaTest.csproj.CoreCompileInputs.cache
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\obj\Debug\ProvaTest.csproj.CopyComplete
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\obj\Debug\ProvaTest.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\ProvaTest\obj\Debug\ProvaTest.pdb

@@ -3,3 +3,9 @@ C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 3\Domain\bin\Debug\Do
 C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 3\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 3\Domain\obj\Debug\Domain.dll
 C:\Workspace\Repo\NHibernate\Learning-NHibernate-4\Chapter 3\Domain\obj\Debug\Domain.pdb
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\Domain\bin\Debug\Domain.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\Domain\bin\Debug\Domain.pdb
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\Domain\obj\Debug\Domain.dll
+C:\Workspace\Repo\NHibernate\NHibernateUnitest\NhibernateUnitTestSample\NHMappingUnitTest\Domain\obj\Debug\Domain.pdb

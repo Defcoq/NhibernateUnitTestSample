@@ -14,7 +14,7 @@ namespace Tests.Unit.Mappings
         private const string ByCode = "ByCode";
         private const string Fluent = "Fluent";
 
-        protected object[] MappingMethods =
+        protected static object[] MappingMethods =
         {
             new object[] {"Xml", "TPC"},
             new object[] {"Xml", "TPH"},
@@ -27,7 +27,7 @@ namespace Tests.Unit.Mappings
             new object[] { "Fluent", "TPT"},
         };
 
-        protected object[] MappingMethodsExceptConcrete =
+        protected static object[] MappingMethodsExceptConcrete =
         {
             new object[] {"Xml", "TPH"},
             new object[] {"Xml", "TPT"},
@@ -37,14 +37,14 @@ namespace Tests.Unit.Mappings
             new object[] { "Fluent", "TPT"},
         };
 
-        protected object[] MappingMethodsWithConcreteOnly =
+        protected static object[] MappingMethodsWithConcreteOnly =
         {
             new object[] {"Xml", "TPC"},
             new object[] {"ByCode", "TPC"},
             new object[] {"Fluent", "TPC"},
         };
 
-        protected object[] MappingMethodsWithSubclassOnly =
+        protected static object[] MappingMethodsWithSubclassOnly =
         {
             new object[] {"Xml", "TPT"},
             new object[] {"ByCode", "TPT"},
@@ -58,7 +58,8 @@ namespace Tests.Unit.Mappings
 
         //This method is called from console application used to generate database scripts using SchemaExport
         //while running the programme, one of the sections of the below code needs to be uncommented
-        [TestFixtureSetUp]
+       // [TestFixtureSetUp]
+        [OneTimeSetUp]
         public void Setup()
         {
             //DatabaseXml = new InMemoryDatabaseForXmlMappings(IsAddressMappedAsComponent);
